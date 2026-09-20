@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b8c15c8197368896473dcf19",
+  "owner": "qeuasaj",
+  "repo": "page-51e7bd9d904337862c5976ff",
+  "title": "翼游(Yiyo)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "51e7bd9d904337862c5976ff",
+      "a": "翼游(Yiyo)",
+      "b": "2027最新官网",
+      "entity": "翼游(Yiyo)",
+      "brand": "翼游(Yiyo)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1c64a1a508a74bbfc3c372dca46c074ade324e629ec233dd0b208ec2c8149c8b",
+      "content": {
+        "primary_entity": "翼游(Yiyo)",
+        "keyword1": "翼游(Yiyo)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端并导入订阅信息。",
+          "AI_CLIENTS_TITLE": "客户端按设备选",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定版本，完成配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐开始加速",
+          "AI_DESCRIPTION": "，翼游(Yiyo)提供基础版、旗舰版与团队版三档方案，月付从 ¥15 起，按年付可享 ¥150/年 起。基础版每月 100GB 流量、支持 3 台设备在线；旗舰版每月 300GB 流量、支持 5 台设备，并含 IPLC 专线游戏加速优化与 7x24 优先工单支持；团队版每月 1000GB 流量、支持 20 台设备，提供 VIP 专属高带宽节点与企业定制路由。按设备数量、流量消耗和订阅周期匹配版本即可。",
+          "AI_FEATURES_INTRO": "从设备需求、流量用量和订阅周期三个角度对比套餐。",
+          "AI_FEATURES_TITLE": "选择套餐的三个维度",
+          "AI_FEATURE_TEXT_1": "单人手机加电脑选基础版 3 台设备，家庭多终端选旗舰版 5 台，工作室或企业可选团队版 20 台设备。",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB 适合轻度浏览，旗舰版 300GB 满足日常视频，团队版 1000GB 应对多人高带宽使用。",
+          "AI_FEATURE_TEXT_3": "三档均支持月付，按年付分别仅需 ¥150/年、¥350/年、¥850/年，长期使用可选年付。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "月流量",
+          "AI_FEATURE_TITLE_3": "计费周期",
+          "AI_GUIDE_INTRO": "先确定套餐，再核对设备适配，最后按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "翼游(Yiyo)提供多档海外加速套餐，按月付或年付选择基础版、旗舰版或团队版，覆盖不同设备数量与流量需求。",
+          "AI_HERO_SUBTITLE": "多设备场景的加速选择",
+          "AI_HIGHLIGHT_1": "三档套餐月付 ¥15 起",
+          "AI_HIGHLIGHT_2": "年付低至 ¥150/年",
+          "AI_HIGHLIGHT_3": "最多支持 20 台设备在线",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；年付分别为 ¥150/年、¥350/年、¥850/年。流量与设备数随版本递增，旗舰版含 IPLC 专线游戏加速优化。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量消耗，从基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的同时在线设备数，核对当前设备数量与系统类型。",
+          "AI_STEP_TEXT_3": "在对应客户端中依据文档导入订阅信息，保存后即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅信息",
+          "AI_VISUAL_TITLE": "翼游多设备加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备数量、套餐差异与付费周期。",
+          "AI_FAQ_QUESTION_1": "翼游(Yiyo)三档套餐主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版 100GB 流量、3 台设备；旗舰版 300GB、5 台设备并含 IPLC 专线与流媒体解锁；团队版 1000GB、20 台设备且支持定制路由。",
+          "AI_FAQ_QUESTION_2": "如何选择适合自己的套餐？",
+          "AI_FAQ_ANSWER_2": "先统计日常同时在线的设备数量与每月大致流量，个人轻量使用选基础版，多设备影音与游戏选旗舰版，团队或高带宽需求选团队版。",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "根据所用设备系统选择对应客户端，参照其使用文档中的订阅导入步骤，将套餐提供的订阅信息添加至客户端后即可连接。",
+          "AI_FAQ_QUESTION_4": "年付与月付价格相差多少？",
+          "AI_FAQ_ANSWER_4": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。长期使用可按年付方式订阅。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供 1000GB 月流量、20 台设备同时在线、VIP 高带宽节点与专属客户经理，适合多人协作或企业定制路由需求。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "634172.cn",
+    "host": "634172.cn"
+  },
+  "file_hashes": {
+    "index.html": "1b065dcde0b1a84073e505634db7178e90f9a1b3ace18673546c5ca7a893c31a",
+    "sitemap.xml": "5813c326defe59c78b10ecc39a9f214d05832fc1170662f709703f4aaaa998b0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fb1676c272cd12cdc906e4f6fe485a2d45b9be9efa15a51db815c8a7b469419c",
+    "robots.txt": "c591ab06246a36c20abe687b51f17c058274e9166f0a3c0f889be6a7dafed3cb",
+    "9dec584f9867dce4710b8aa59b83c952.txt": "1e3a9b7c8535b652ebf33f0a2ea20b4f2369991e7855421c890aea5aa9a4def6"
+  },
+  "revision": "88ac51308eba598ae607c347c45c02c82a69e319085aba679d137b3d6f8ccc13"
+}
